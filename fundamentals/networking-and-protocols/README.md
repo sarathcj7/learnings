@@ -4,11 +4,11 @@ Understanding networking is foundational for system design. This topic covers DN
 
 ## Sub-topics
 
-- **DNS & Service Discovery**: DNS resolution mechanics, geo-routing, service discovery patterns
-- **TCP/UDP & Transport**: TCP handshake, congestion control, when to use UDP/QUIC
-- **HTTP Versions & Semantics**: HTTP/1.1 vs 2 vs 3, multiplexing, head-of-line blocking
-- **TLS & PKI**: TLS handshake, certificate chains, mTLS
-- **WebSockets & Real-time Transport**: WebSockets vs long-polling vs SSE — trade-offs for real-time
+- **[DNS Resolution](dns-resolution.md)** ✅: DNS queries, TTL, caching, GSLB patterns, failover
+- **[TCP & Connection Management](tcp-and-connection-management.md)** ✅: Three-way handshake, states, keepalive, tuning
+- **HTTP Versions & Semantics** ⏳: HTTP/1.1 vs 2 vs 3, multiplexing
+- **TLS & PKI** ⏳: TLS handshake, certificates, mTLS
+- **WebSockets & Real-time** ⏳: WebSockets vs long-polling vs SSE
 
 ## Why This Matters
 
