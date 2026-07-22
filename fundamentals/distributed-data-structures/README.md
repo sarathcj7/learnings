@@ -4,7 +4,9 @@ Consistent hashing, Bloom filters, HyperLogLog, CRDTs
 
 ## Sub-topics
 
-*Content coming soon. See [Case Studies](../../case-studies/) and [Interview Prep](../../interview-prep/) for now.*
+- **[Bloom Filters](bloom-filters.md)**: Probabilistic membership testing, false positives, use cases (deduplication, cache filtering)
+- **[Skip Lists](skip-lists.md)**: Probabilistic data structure, O(log N) complexity, Redis/LevelDB implementation
+- **[HyperLogLog & Cardinality](hyperloglog-and-cardinality.md)**: Cardinality estimation, O(log log N) memory, unique counting
 
 ## Interview Prep
 
@@ -17,4 +19,4 @@ See [main README](../../README.md) for full topic map.
 
 ---
 
-**Status**: ⭕ Pending detailed content. Framework and interview prep ready.
+**Status**: ✅ Complete. 3 files cover Bloom filters, skip lists, and cardinality estimation.
