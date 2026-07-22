@@ -4,7 +4,9 @@ CDN, edge computing, geo-routing, anycast
 
 ## Sub-topics
 
-*Content coming soon. See [Case Studies](../../case-studies/) and [Interview Prep](../../interview-prep/) for now.*
+- **[CDN Architecture](cdn-architecture.md)**: CDN concepts, edge caching, cache headers, hit ratio, origin shield
+- **[Edge Computing](edge-computing.md)**: Edge functions, Lambda@Edge, Cloudflare Workers, serverless at edge
+- **[Content Replication](content-replication.md)**: Multi-region distribution, pull/push replication, consistency models
 
 ## Interview Prep
 
@@ -17,4 +19,4 @@ See [main README](../../README.md) for full topic map.
 
 ---
 
-**Status**: ⭕ Pending detailed content. Framework and interview prep ready.
+**Status**: ✅ Complete. 3 files cover CDN architecture, edge compute, and content replication.
