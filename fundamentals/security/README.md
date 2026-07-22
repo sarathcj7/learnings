@@ -7,7 +7,7 @@ Protecting systems from attacks: who can access what (access control), securing 
 - **[Authentication & Authorization](authentication-and-authorization.md)** ✅: Session-based, JWT, OAuth 2.0, RBAC/ABAC, password security
 - **[Data Protection & Encryption](data-protection-and-encryption.md)** ✅: Encryption at rest/transit, TLS, key management, PII, compliance (GDPR/HIPAA/PCI)
 - **[Common Vulnerabilities](common-vulnerabilities.md)** ✅: SQL injection, XSS, CSRF, broken access control, OWASP Top 10
-- **[TLS & Certificates](tls-and-certificates.md)** ⏳ (certificate chains, mTLS)
+- **[TLS & PKI](tls-and-pki.md)** ✅: CAs, certificate chains, pinning, key management, mTLS
 
 ## Why This Matters
 
@@ -44,4 +44,4 @@ Protecting systems from attacks: who can access what (access control), securing 
 
 ---
 
-**Status**: ✅ 75% Complete. 3/4 files written (TLS/certs queued).
+**Status**: ✅ **COMPLETE**. 4/4 files written.

@@ -8,7 +8,7 @@ Decoupling services with queues, pub-sub, and event streaming. Kafka and friends
 - **[Kafka Architecture](kafka-architecture.md)** ✅: Topics, partitions, brokers, replication, consumer groups, scaling
 - **[Event Sourcing](event-sourcing.md)** ✅: Immutable log, audit trail, temporal queries, snapshots, CQRS
 - **[Exactly-Once Semantics](exactly-once-semantics.md)** ✅: Idempotency, distributed transactions, stream processing
-- **[Stream Processing](stream-processing.md)** ⏳ (Spark, Flink, stateful operations)
+- **[Stream Processing](stream-processing.md)** ✅: Flink, Spark, windowing, exactly-once, stateful ops
 
 ## Why This Matters
 
@@ -46,4 +46,4 @@ Decoupling services with queues, pub-sub, and event streaming. Kafka and friends
 
 ---
 
-**Status**: ✅ 80% Complete. 4/5 files written (stream processing queued).
+**Status**: ✅ **COMPLETE**. 5/5 files written.

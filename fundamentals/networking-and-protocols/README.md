@@ -6,9 +6,9 @@ Understanding networking is foundational for system design. This topic covers DN
 
 - **[DNS Resolution](dns-resolution.md)** ✅: DNS queries, TTL, caching, GSLB patterns, failover
 - **[TCP & Connection Management](tcp-and-connection-management.md)** ✅: Three-way handshake, states, keepalive, tuning
-- **HTTP Versions & Semantics** ⏳: HTTP/1.1 vs 2 vs 3, multiplexing
-- **TLS & PKI** ⏳: TLS handshake, certificates, mTLS
-- **WebSockets & Real-time** ⏳: WebSockets vs long-polling vs SSE
+- **[HTTP Versions & Semantics](http-and-versions.md)** ✅: HTTP/1.1 vs 2 vs 3, multiplexing, QUIC
+- **[TLS & Certificates](tls-and-certificates.md)** ✅: TLS handshake, certificate chains, management, ACME
+- **[WebSockets & Real-time](websockets-and-realtime.md)** ✅: WebSocket vs polling vs SSE, scaling, fallbacks
 
 ## Why This Matters
 
@@ -35,4 +35,4 @@ Understanding networking is foundational for system design. This topic covers DN
 
 ---
 
-**Status**: ⭕ Pending detailed content. Framework ready.
+**Status**: ✅ **COMPLETE**. 5/5 files written.
