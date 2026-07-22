@@ -1,20 +1,15 @@
 # Batch & Stream Processing
 
-MapReduce, streaming, windowing, Lambda/Kappa
+MapReduce, Spark, Lambda architecture, data pipeline orchestration.
 
 ## Sub-topics
 
-*Content coming soon. See [Case Studies](../../case-studies/) and [Interview Prep](../../interview-prep/) for now.*
+- **[Batch Processing](batch-processing.md)** ✅: MapReduce, Spark, Hadoop
+- **[Lambda Architecture](lambda-architecture.md)** ✅: Batch + stream combined
+- **[Kappa Architecture](kappa-architecture.md)** ⏳
+- **[Stream Processing](../messaging-and-streaming/stream-processing.md)** ✅ (see Messaging)
 
-## Interview Prep
+## Status
 
-- **[Question Bank](../../interview-prep/question-banks/batch-and-stream-processing.md)**: Self-test recall
-- **[Flashcards](../../interview-prep/flashcards/batch-and-stream-processing.md)**: Spaced-repetition drills
+✅ Core files complete (Batch, Lambda). Ready for study.
 
-## Related Fundamentals
-
-See [main README](../../README.md) for full topic map.
-
----
-
-**Status**: ⭕ Pending detailed content. Framework and interview prep ready.
