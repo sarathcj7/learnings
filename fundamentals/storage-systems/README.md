@@ -4,7 +4,9 @@ Object/block/file storage, durability, erasure coding
 
 ## Sub-topics
 
-*Content coming soon. See [Case Studies](../../case-studies/) and [Interview Prep](../../interview-prep/) for now.*
+- **[Embedded Databases](embedded-databases.md)** ✅: RocksDB, LevelDB, SQLite, WAL
+- **[B-trees vs LSM Trees](b-trees-and-lsm.md)** ✅: Structure, read/write trade-offs, compaction, bloom filters
+- **[Column-Oriented Storage](column-oriented-storage.md)** ✅: ClickHouse, Parquet, compression benefits
 
 ## Interview Prep
 
@@ -17,4 +19,4 @@ See [main README](../../README.md) for full topic map.
 
 ---
 
-**Status**: ⭕ Pending detailed content. Framework and interview prep ready.
+**Status**: ✅ Complete. Covers embedded databases, index structures, and columnar storage.
