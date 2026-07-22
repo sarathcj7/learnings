@@ -7,7 +7,7 @@ Designing APIs that scale, choosing the right protocol, and building systems tha
 - **[REST vs GraphQL](rest-vs-graphql.md)** ✅: Resource model, queries, caching, over/under-fetching, trade-offs
 - **[gRPC & HTTP/2](grpc-and-http2.md)** ✅: Multiplexing, protobuf, streaming, performance, when to use
 - **[Idempotency & API Design](idempotency-and-api-design.md)** ✅: Safe retries, idempotency keys, duplicate prevention
-- **[Pagination & Filtering](pagination-and-filtering.md)** ⏳ (final file, queued)
+- **[Pagination & Filtering](pagination-and-filtering.md)** ✅: Cursor-based, keyset, filtering, sorting, result limiting
 
 ## Why This Matters
 
@@ -56,4 +56,4 @@ Designing APIs that scale, choosing the right protocol, and building systems tha
 
 ---
 
-**Status**: ✅ Complete. 3/4 files written (pagination queued for later).
+**Status**: ✅ **COMPLETE**. 4/4 files written.

@@ -7,7 +7,7 @@ Back-of-envelope calculations to predict system limits, size infrastructure appr
 - **[Scale Estimation Framework](scale-estimation-framework.md)** ✅: QPS calculation, capacity per component, bottleneck identification, headroom rules
 - **[Database Sizing](database-sizing.md)** ✅: Storage, RAM (working set), CPU, disk I/O, query optimization ROI
 - **[Cost Optimization](cost-optimization.md)** ✅: Cost drivers, short/medium/long-term optimizations, TCO, cost monitoring
-- **[Load Testing](load-testing.md)** ⏳ (final file, queued)
+- **[Load Testing](load-testing.md)** ✅: Phases, tools, bottleneck identification, best practices
 
 ## Why This Matters
 
@@ -57,4 +57,4 @@ Back-of-envelope calculations to predict system limits, size infrastructure appr
 
 ---
 
-**Status**: ✅ Complete. 3/4 files written (load testing queued for later batch).
+**Status**: ✅ **COMPLETE**. 4/4 files written.
