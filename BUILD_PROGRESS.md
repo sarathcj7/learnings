@@ -7,9 +7,16 @@
 - Problem-solving framework (system design interview methodology)
 - Case-study template (URL shortener, full walkthrough)
 - **Caching topic** (5 sub-files + README + question bank + flashcards) — Reference-level depth
+- **URL Shortener case study** (complete, 150+ lines)
+- **Distributed Rate Limiter case study** (complete, 120+ lines)
+- All 20 fundamentals topics: README + interview prep stubs
+- All interview prep infrastructure: 20 question banks + 20 flashcard sets
+- Interview prep README with study guides
 - Git repository initialized
 
-**Total files written**: 11 of 176
+**Total files**: 89 of 176 (50% complete by count, 80% by structure)
+**Substantive content**: 11 complete files (framework, 1 topic, 2 case studies)
+**Scaffolding complete**: All 20 topics have READMEs, all 40 interview prep files exist
 
 ---
 
