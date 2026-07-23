@@ -26,17 +26,6 @@ The structure is "fundamentals first, then case studies that apply them" — you
 - **`case-studies/`**: 20 complete system design problems (13 core for interviews, 7 advanced for mastery). Includes a problem-solving framework and case-study template.
 - **`interview-prep/`**: Question banks (20 files, one per fundamentals topic) and flashcards (20 files) for self-testing and spaced-repetition recall.
 
-## Status Legend
-
-| Status | Criteria | Symbol |
-|---|---|---|
-| Not started | Not yet engaged|
-| Reviewed | Read once, understand high-level concepts | 📖 |
-| Practiced | Tested via question bank/flashcards or applied in a case study | 💪 |
-| Mastered | Can explain from scratch, handle edge cases, teach it unprompted | 🎯 |
-
----
-
 ## Progress Overview — Fundamentals
 
 | # | Topic |
