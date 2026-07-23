@@ -315,12 +315,3 @@ The structure is "fundamentals first, then case studies that apply them" — you
 - **Question Banks**: [interview-prep/question-banks/](interview-prep/question-banks/) — 20 topic-specific files, each with 15–25 open-ended questions (no answers). Self-test before diving into the fundamentals deep-dives.
 - **Flashcards**: [interview-prep/flashcards/](interview-prep/flashcards/) — 20 topic-specific files with collapsed Q/A pairs for spaced-repetition recall of key definitions, formulas, and decision trees.
 
----
-
-## Tips for Effective Learning
-
-1. **Read actively**: Jot down questions as you read fundamentals sub-files. Test yourself against the question bank **before** peeking at other sub-files.
-2. **Sketch before you code**: Every system design round involves whiteboarding. Draw high-level architectures and sequence diagrams as you study.
-3. **Track trade-offs obsessively**: Every design choice has a cost. Build a mental catalog of when to choose consistency over availability, stateless over stateful, etc.
-4. **Practice end-to-end**: Don't just read case studies passively. Solve them yourself first, then read the writeup. Time yourself.
-5. **Update status weekly**: As you move through topics, mark progress in the tracker above. Seeing the progress is motivating.
